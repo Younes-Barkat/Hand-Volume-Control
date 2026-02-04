@@ -59,7 +59,7 @@ Ever wanted to control your computer like Tony Stark? This app uses your webcam 
 ```bash
 # 1. Clone this repo
 git clone https://github.com/Younes-Barkat/Hand-Volume-Control.git
-cd gesture-volume-control
+cd Hand-Volume-Control
 
 # 2. Install dependencies
 pip install -r requirements.txt
